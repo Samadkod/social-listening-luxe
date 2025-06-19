@@ -1,8 +1,6 @@
+# 💬 Social Listening Luxe – Analyse des conversations autour des marques de luxe
 
-# 💬 Social Listening – Marques de Luxe  
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)  
-🔗 [→ Lancer l’application en ligne](https://social-listening-luxe-bjhqf4fartf8c3wqswcv7x.streamlit.app)
-
+[![App Streamlit](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://social-listening-luxe-bjhqf4fartf8c3wqswcv7x.streamlit.app/)
 ---
 
 ## 🎯 Objectif
@@ -98,9 +96,7 @@ L'application aide à :
 
 
 
-# 💬 Social Listening Luxe – Analyse des conversations autour des marques de luxe
 
-[![App Streamlit](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://social-listening-luxe-bjhqf4fartf8c3wqswcv7x.streamlit.app/)
 
 ## 📌 Objectif
 
